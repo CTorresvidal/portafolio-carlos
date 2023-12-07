@@ -132,6 +132,7 @@ a:hover{
   }
 
   .chekBtn{
+    margin: 1rem;
     display:inline-flex;
   }
 
